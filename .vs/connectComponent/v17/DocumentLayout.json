@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\University_STU\\Nam2\\HK2\\CTDL_GT2\\GRAPH\\connectComponent\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2F0FA34-BAEF-4DF1-813E-8936419BFCE4}|connectComponent\\connectComponent.vcxproj|D:\\University_STU\\Nam2\\HK2\\CTDL_GT2\\GRAPH\\connectComponent\\connectComponent\\SourceList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F2F0FA34-BAEF-4DF1-813E-8936419BFCE4}|connectComponent\\connectComponent.vcxproj|solutionrelative:connectComponent\\SourceList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2F0FA34-BAEF-4DF1-813E-8936419BFCE4}|connectComponent\\connectComponent.vcxproj|D:\\University_STU\\Nam2\\HK2\\CTDL_GT2\\GRAPH\\connectComponent\\connectComponent\\SourceMatrix.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F2F0FA34-BAEF-4DF1-813E-8936419BFCE4}|connectComponent\\connectComponent.vcxproj|solutionrelative:connectComponent\\SourceMatrix.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2F0FA34-BAEF-4DF1-813E-8936419BFCE4}|connectComponent\\connectComponent.vcxproj|D:\\University_STU\\Nam2\\HK2\\CTDL_GT2\\GRAPH\\connectComponent\\connectComponent\\AdjacencyList.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F2F0FA34-BAEF-4DF1-813E-8936419BFCE4}|connectComponent\\connectComponent.vcxproj|solutionrelative:connectComponent\\AdjacencyList.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2F0FA34-BAEF-4DF1-813E-8936419BFCE4}|connectComponent\\connectComponent.vcxproj|D:\\University_STU\\Nam2\\HK2\\CTDL_GT2\\GRAPH\\connectComponent\\connectComponent\\AdjacencyMatrix.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F2F0FA34-BAEF-4DF1-813E-8936419BFCE4}|connectComponent\\connectComponent.vcxproj|solutionrelative:connectComponent\\AdjacencyMatrix.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 39,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdjacencyMatrix.txt",
+              "DocumentMoniker": "D:\\University_STU\\Nam2\\HK2\\CTDL_GT2\\GRAPH\\connectComponent\\connectComponent\\AdjacencyMatrix.txt",
+              "RelativeDocumentMoniker": "connectComponent\\AdjacencyMatrix.txt",
+              "ToolTip": "D:\\University_STU\\Nam2\\HK2\\CTDL_GT2\\GRAPH\\connectComponent\\connectComponent\\AdjacencyMatrix.txt",
+              "RelativeToolTip": "connectComponent\\AdjacencyMatrix.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-20T10:12:56.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdjacencyList.txt",
+              "DocumentMoniker": "D:\\University_STU\\Nam2\\HK2\\CTDL_GT2\\GRAPH\\connectComponent\\connectComponent\\AdjacencyList.txt",
+              "RelativeDocumentMoniker": "connectComponent\\AdjacencyList.txt",
+              "ToolTip": "D:\\University_STU\\Nam2\\HK2\\CTDL_GT2\\GRAPH\\connectComponent\\connectComponent\\AdjacencyList.txt",
+              "RelativeToolTip": "connectComponent\\AdjacencyList.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-20T10:12:18.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SourceMatrix.cpp",
+              "DocumentMoniker": "D:\\University_STU\\Nam2\\HK2\\CTDL_GT2\\GRAPH\\connectComponent\\connectComponent\\SourceMatrix.cpp",
+              "RelativeDocumentMoniker": "connectComponent\\SourceMatrix.cpp",
+              "ToolTip": "D:\\University_STU\\Nam2\\HK2\\CTDL_GT2\\GRAPH\\connectComponent\\connectComponent\\SourceMatrix.cpp",
+              "RelativeToolTip": "connectComponent\\SourceMatrix.cpp",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAEwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-20T09:33:24.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SourceList.cpp",
+              "DocumentMoniker": "D:\\University_STU\\Nam2\\HK2\\CTDL_GT2\\GRAPH\\connectComponent\\connectComponent\\SourceList.cpp",
+              "RelativeDocumentMoniker": "connectComponent\\SourceList.cpp",
+              "ToolTip": "D:\\University_STU\\Nam2\\HK2\\CTDL_GT2\\GRAPH\\connectComponent\\connectComponent\\SourceList.cpp",
+              "RelativeToolTip": "connectComponent\\SourceList.cpp",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAGMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-20T10:10:49.879Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
